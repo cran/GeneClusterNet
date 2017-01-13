@@ -1,0 +1,7 @@
+export(GeneCluster, GeneClusterBIC, GeneClusterInterp, GeneClusterNet)
+import(G1DBN)
+import(MASS)
+import(igraph)
+importFrom("grDevices", "colors", "rainbow")
+importFrom("graphics", "lines", "mtext", "par", "plot", "points", "title")
+importFrom("stats", "na.omit", "rnorm") 

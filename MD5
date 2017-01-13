@@ -1,0 +1,11 @@
+8e33edf0b1d7cb53899c06c7dd3842cb *DESCRIPTION
+e972d73f2a3a88ff8676042d9c0fe0af *NAMESPACE
+e5dac38643ed32387f8e6e6a166ed275 *R/TcNet.R
+d89b2b498a5393beccfb9b5b8f67dd98 *build/partial.rdb
+951d7a9c1540f03bd2af6587abe221c6 *data/mExpression.rda
+3006fe41c7e148d903a2d374003ec96f *man/GeneCluster.Rd
+9606513c2779b9039520ec852b1efa0d *man/GeneClusterBIC.Rd
+82ea161d90292360b692373e01421813 *man/GeneClusterInterp.Rd
+4f65df6ad71607b312fa8a9f200cef70 *man/GeneClusterNet-package.Rd
+c28cbc5107d4f9631358f88749c0c331 *man/GeneClusterNet.Rd
+2bc8090683ffb55ae71a88444069232d *man/mExpression.Rd
